@@ -1,0 +1,10 @@
+.section{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-image: url(Image/2192748.jpg);
+    background-size: 100%;
+}
